@@ -1,0 +1,10 @@
+# example authors data, the key is github username.
+caniszczyk:
+  name: Chris Aniszczyk
+  twitter: cra
+  company: CNCF
+thetwopct:
+  name: James Hunt
+npechl:
+  name: Nikos Pechlivanis
+  twitter: npechl
