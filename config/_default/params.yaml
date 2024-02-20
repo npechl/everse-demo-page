@@ -1,9 +1,9 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/EOSCEverse_PosColour.svg"
-logo_on_black: "/img/EOSCEverse_NegColour.svg"
-banner: "/img/eu.svg"
+logo_on_white: "/everse-demo-page/img/EOSCEverse_PosColour.svg"
+logo_on_black: "/everse-demo-page/img/EOSCEverse_NegColour.svg"
+banner: "/everse-demo-page/img/eu.svg"
 custom_js: []
 custom_css: []
 
