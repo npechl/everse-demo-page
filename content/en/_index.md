@@ -8,7 +8,7 @@ description: This is the demo site for Dot Org Theme. The title description and 
 
 > #### High Quality Research Software for the Communities by the Communities
 
-![This is alt text, please remember to set it](https://www.skills4eosc.eu/templates/yootheme/cache/04/5-0480b5c8.webp)
+![This is alt text, please remember to set it](./img/5-0480b5c8.webp)
 
 
 <!-- {{< columns count=2 >}}
